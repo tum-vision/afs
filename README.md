@@ -6,8 +6,7 @@ Automatic Feature Selection is a code framework for feature selection for semant
 >*In Scale Space and Variational Methods in Computer Vision*, 2015.
 
 ## Framework Structure
-    --AFS
-    
+    --AFS    
         |
         -- build            ; build directories for CMake and QtCreator projects
         |
@@ -53,17 +52,17 @@ This framework requires [mrmr](http://penglab.janelia.org/proj/mRMR/) method to 
 ### Build from CMake
 
 1. Please export the following paths in your **.bashrc** **if you built libraries from source**. 
-
-* OpenCV 2.4.10
-```
-        export OPENCV_DIR=<path to OpenCV>/OpenCV/2.4.10/share/OpenCV
-        export PKG_CONFIG_PATH=$PKG_CONFIG_PATH:<path to OpenCV>/OpenCV/2.4.10/lib/pkgconfig
-        export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:<path to OpenCV>/OpenCV/2.4.10/lib
-```
-* Boost 1.54.0
-```    
-        export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:<path to Boost>/Boost/1.54/build/lib
-```
+    * OpenCV 2.4.10
+    ```
+    export OPENCV_DIR=<path to OpenCV>/OpenCV/2.4.10/share/OpenCV
+    export PKG_CONFIG_PATH=$PKG_CONFIG_PATH:<path to OpenCV>/OpenCV/2.4.10/lib/pkgconfig
+    export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:<path to OpenCV>/OpenCV/2.4.10/lib  
+    ```
+    * Boost 1.54.0
+    ```    
+    export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:<path to Boost>/Boost/1.54/build/lib
+    ```
 
 2. Change the following lines in CMakeLists.txt
-    *   **line 13** : set(OpenCV_DIR "<**path to OpenCV**>/OpenCV/2.4.10/share/OpenCV")
+    *   **Line 13** : Set path to the **OpenCVConfig.cmake**
+    *   **Line 23** : Set **CUDA Compute Capability** in arch=compute_??,code=sm_??
