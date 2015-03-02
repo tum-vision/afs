@@ -50,4 +50,20 @@ Once the libraries are installed, you can download the source from github:
      
 This framework requires [mrmr](http://penglab.janelia.org/proj/mRMR/) method to be compiled. Please download the [source files](http://penglab.janelia.org/proj/mRMR/mrmr_c_src.zip) inside the folder *misc/mrmr/* and compile the code with **make** command.
 
+### Build from CMake
 
+1. Please export the following paths in your **.bashrc** **if you built libraries from source**. 
+
+* OpenCV 2.4.10
+```
+        export OPENCV_DIR=<path to OpenCV>/OpenCV/2.4.10/share/OpenCV
+        export PKG_CONFIG_PATH=$PKG_CONFIG_PATH:<path to OpenCV>/OpenCV/2.4.10/lib/pkgconfig
+        export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:<path to OpenCV>/OpenCV/2.4.10/lib
+```
+* Boost 1.54.0
+```    
+        export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:<path to Boost>/Boost/1.54/build/lib
+```
+
+2. Change the following lines in CMakeLists.txt
+    *   **line 13** : set(OpenCV_DIR "<**path to OpenCV**>/OpenCV/2.4.10/share/OpenCV")
