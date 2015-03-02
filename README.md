@@ -79,6 +79,7 @@ This will copy the executable file into main AFS folder. You can run the executa
 ### Build from QtCreator(qmake)
 
 1- Please apply the following changes to **AFS.pro** QMake project file:
+
     * Set *INCLUDEPATH* and *LIBS* path for:
        * OpenCV 2.4.10: **Lines 71,73**
        * Boost 1.54.0 : **Lines 89,91**
