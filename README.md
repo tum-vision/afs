@@ -66,3 +66,12 @@ This framework requires [mrmr](http://penglab.janelia.org/proj/mRMR/) method to 
 2. Change the following lines in CMakeLists.txt
     *   **Line 13** : Set path to the **OpenCVConfig.cmake**
     *   **Line 23** : Set **CUDA Compute Capability** in arch=compute_??,code=sm_??
+    
+3. Run console in AFS/build/CMake and type:
+    ```
+    cmake ../../
+    make 
+    make install
+    make clean (to clean the project)
+    ```
+This will copy the executable file into main AFS folder. You can run the executable as **./AFS**.
