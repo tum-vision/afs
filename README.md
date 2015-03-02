@@ -78,9 +78,8 @@ This will copy the executable file into main AFS folder. You can run the executa
 
 ### Build from QtCreator(qmake)
 
-1- Please apply the following changes to **AFS.pro** QMake project file:
-
-    * Set *INCLUDEPATH* and *LIBS* path for:
-       * OpenCV 2.4.10: **Lines 71,73**
-       * Boost 1.54.0 : **Lines 89,91**
-       * CUDA 6.5     : **Lines 104,106**
+1. Set *INCLUDEPATH* and *LIBS* path in **AFS.pro** (qmake project file) for :
+    * OpenCV 2.4.10: **Lines 71, 73**
+    * Boost 1.54.0 : **Lines 89, 91**
+    * CUDA 6.5     : **Lines 104, 106**
+2. Set CUDA installation directory(**CUDA_DIR**) and CUDA compute capability(**CUDA_ARCH**) in **Lines 101, 102** 
