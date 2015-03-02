@@ -1,5 +1,5 @@
 # AFS
-Automatic Feature Selection is a code framework for feature selection for semantic scene understanding introduced in 
+Automatic Feature Selection is a code framework for the feature selection method introduced in 
 
 >Caner Hazirbas, Julia Diebold, Daniel Cremers,
 >**Optimizing the Relevance-Redundancy Tradeoff for Efficient Semantic Segmentation**,
@@ -13,6 +13,10 @@ Automatic Feature Selection is a code framework for feature selection for semant
         -- cuda             ; cuda source/header files
         |
         -- doc              ; code documentation and related conference paper
+            |
+            -- html         ; html documentation (double-click on **index.html**)
+            |
+            -- latex        ; PDF documentation             
         |
         -- include          ; header files
         |
@@ -74,12 +78,15 @@ This framework requires [mrmr](http://penglab.janelia.org/proj/mRMR/) method to 
     make install
     make clean (to clean the project)
     ```
-This will copy the executable file into main AFS folder. You can run the executable as **./AFS**.
-
 ### Build from QtCreator(qmake)
 
 1. Set *INCLUDEPATH* and *LIBS* path in **AFS.pro** (qmake project file) for :
     * OpenCV 2.4.10: **Lines 71, 73**
     * Boost 1.54.0 : **Lines 89, 91**
     * CUDA 6.5     : **Lines 104, 106**
-2. Set CUDA installation directory(**CUDA_DIR**) and CUDA compute capability(**CUDA_ARCH**) in **Lines 101, 102** 
+2. Set CUDA installation directory(**CUDA_DIR**) and CUDA compute capability(**CUDA_ARCH**) in **Lines 101, 102**
+
+3. You can use build/QtCreator/Debug and build/QtCreator/Release folders to compile the project with QtCreator
+
+Both builds will copy the executable file (*AFS*) into main project folder. 
+You can run the executable as **./AFS**.
