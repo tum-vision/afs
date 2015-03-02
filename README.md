@@ -43,7 +43,7 @@ Along with these libraries, you need to install CUDA drivers on your machine:
 
 * [CUDA 6.5 Production Release](https://developer.nvidia.com/cuda-downloads)
 
-Once the libraries are installed, you can download the source from github:
+Once libraries are installed, you can download the source from github:
 
             git clone https://github.com/tum-vision/AFS.git
      
@@ -75,3 +75,11 @@ This framework requires [mrmr](http://penglab.janelia.org/proj/mRMR/) method to 
     make clean (to clean the project)
     ```
 This will copy the executable file into main AFS folder. You can run the executable as **./AFS**.
+
+### Build from QtCreator(qmake)
+
+1- Please apply the following changes to **AFS.pro** QMake project file:
+    * Set *INCLUDEPATH* and *LIBS* path for:
+       * OpenCV 2.4.10: **Lines 71,73**
+       * Boost 1.54.0 : **Lines 89,91**
+       * CUDA 6.5     : **Lines 104,106**
