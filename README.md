@@ -78,6 +78,7 @@ This framework requires [mrmr](http://penglab.janelia.org/proj/mRMR/) method to 
     make install
     make clean (to clean the project)
     ```
+    
 ### Build from QtCreator(qmake)
 
 1. Set *INCLUDEPATH* and *LIBS* path in **AFS.pro** (qmake project file) for :
