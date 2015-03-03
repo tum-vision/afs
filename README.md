@@ -89,5 +89,5 @@ This framework requires [mrmr](http://penglab.janelia.org/proj/mRMR/) method to 
 
 3. You can use build/QtCreator/Debug and build/QtCreator/Release folders to compile the project with QtCreator
 
-Both builds will copy the executable file (*AFS*) into main project folder. 
+Both builds will copy the executable file (*AFS*) into the main project folder. 
 You can run the executable as **./AFS**.
