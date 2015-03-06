@@ -1,4 +1,4 @@
-![alt tag](https://raw.github.com/tum-vision/AFS/master/logo/logo.png)
+![Image](logo/logo.png)
 
 # AFS
 Automatic Feature Selection is a code framework for the feature selection method introduced in 
