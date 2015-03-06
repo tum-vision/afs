@@ -1,0 +1,11 @@
+<map id="Dataset" name="Dataset">
+<area shape="rect" id="node2" href="$class_corel.html" title="The Corel class. " alt="" coords="5,80,59,107"/>
+<area shape="rect" id="node3" href="$classe_trims.html" title="The eTrims class. " alt="" coords="83,80,145,107"/>
+<area shape="rect" id="node4" href="$class_m_s_r_c.html" title="The MSRC class. " alt="" coords="170,80,232,107"/>
+<area shape="rect" id="node5" href="$class_n_y_uv1.html" title="The NYUv1 class. " alt="" coords="257,80,321,107"/>
+<area shape="rect" id="node6" href="$class_n_y_uv2.html" title="The NYUv2 class. " alt="" coords="346,80,411,107"/>
+<area shape="rect" id="node7" href="$class_pedestrian_parsing.html" title="The PedestrianParsing class. " alt="" coords="436,80,564,107"/>
+<area shape="rect" id="node8" href="$class_sowerby.html" title="The Sowerby class. " alt="" coords="589,80,661,107"/>
+<area shape="rect" id="node9" href="$class_test.html" title="The Test class. " alt="" coords="687,80,735,107"/>
+<area shape="rect" id="node10" href="$class_v_o_c2012.html" title="The VOC2012 class. " alt="" coords="759,80,837,107"/>
+</map>

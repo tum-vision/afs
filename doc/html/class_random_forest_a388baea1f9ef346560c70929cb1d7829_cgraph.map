@@ -1,0 +1,5 @@
+<map id="RandomForest::Train" name="RandomForest::Train">
+<area shape="rect" id="node2" href="$class_timer.html#a3a8b5272198d029779dc9302a54305a8" title="start clock " alt="" coords="257,5,346,32"/>
+<area shape="rect" id="node3" href="$class_timer.html#ac4283aa1838970ce95875d8c456f7844" title="stop clock " alt="" coords="257,56,345,83"/>
+<area shape="rect" id="node4" href="$class_random_forest.html#aa41c8a3e58e779b20b51be94caae03db" title="Save Classifier. " alt="" coords="201,107,402,133"/>
+</map>

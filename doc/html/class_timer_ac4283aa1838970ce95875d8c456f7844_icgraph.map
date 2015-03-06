@@ -1,0 +1,7 @@
+<map id="Timer::stop" name="Timer::stop">
+<area shape="rect" id="node2" href="$class_random_forest.html#a388baea1f9ef346560c70929cb1d7829" title="Train Classifier. " alt="" coords="157,5,302,32"/>
+<area shape="rect" id="node3" href="$class_model.html#ada15f969bcf37d19837b0f36167e4bec" title="Evaluate features. " alt="" coords="146,56,313,83"/>
+<area shape="rect" id="node5" href="$class_model.html#a7a533ed5022f53773b108b7fb9b80c5f" title="Rank features with mrmr. " alt="" coords="156,107,303,133"/>
+<area shape="rect" id="node6" href="$class_dense_unary_pixel_potential.html#aa4bf7efaa5419a289c124fa3ce3cc4b2" title="Evaluate potentials. " alt="" coords="142,158,317,199"/>
+<area shape="rect" id="node4" href="$class_model.html#aaf66c28b12d26627632a97403623b2af" title="Analyse features. " alt="" coords="365,81,528,108"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ImageProc::convertColor" name="ImageProc::convertColor">
+<area shape="rect" id="node2" href="$class_image.html#a9c6e2fc894411abec9b24140aa779cc2" title="Class Constructor. " alt="" coords="227,45,330,72"/>
+<area shape="rect" id="node3" href="$class_image.html#a613bf28dfeefe437389aaf2ecfc6db13" title="get RGB image " alt="" coords="222,96,335,123"/>
+<area shape="rect" id="node4" href="$class_dataset.html#ac3df43145ad35572641942933721ffbe" title="Remove Unlabeled Images from Dataset. " alt="" coords="385,5,562,46"/>
+<area shape="rect" id="node5" href="$class_model.html#a7a533ed5022f53773b108b7fb9b80c5f" title="Rank features with mrmr. " alt="" coords="400,71,547,97"/>
+<area shape="rect" id="node7" href="$class_model.html#a08ff726fffd82f00f20b8a1db05b2b6c" title="Compute confusion matrix. " alt="" coords="411,121,535,148"/>
+<area shape="rect" id="node9" href="$class_dense_unary_pixel_potential.html#a2419e38ff1e5a34acedda2ee6d158e6c" title="Train potential. " alt="" coords="386,173,561,214"/>
+<area shape="rect" id="node6" href="$class_model.html#aaf66c28b12d26627632a97403623b2af" title="Analyse features. " alt="" coords="620,71,783,97"/>
+<area shape="rect" id="node8" href="$class_model.html#ab2d5668ad5bd324fb8c03db4e2e02fe0" title="Find optimal lambda for VariationalOptimization. " alt="" coords="611,121,792,148"/>
+</map>

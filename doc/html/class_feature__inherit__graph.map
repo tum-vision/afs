@@ -1,0 +1,7 @@
+<map id="Feature" name="Feature">
+<area shape="rect" id="node2" href="$class_color_features.html" title="The ColorFeatures class. " alt="" coords="5,80,109,107"/>
+<area shape="rect" id="node3" href="$class_depth_features.html" title="The DepthFeatures class. " alt="" coords="134,80,241,107"/>
+<area shape="rect" id="node4" href="$class_haar_like_features.html" title="The HaarLikeFeatures class. " alt="" coords="267,80,392,107"/>
+<area shape="rect" id="node5" href="$class_location_features.html" title="The LocationFeatures class. " alt="" coords="416,80,539,107"/>
+<area shape="rect" id="node6" href="$class_texton_features.html" title="The TextonFeatures class. " alt="" coords="563,80,676,107"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Image::getRGB" name="Image::getRGB">
+<area shape="rect" id="node2" href="$class_dataset.html#ac3df43145ad35572641942933721ffbe" title="Remove Unlabeled Images from Dataset. " alt="" coords="169,5,346,46"/>
+<area shape="rect" id="node3" href="$class_model.html#a7a533ed5022f53773b108b7fb9b80c5f" title="Rank features with mrmr. " alt="" coords="184,71,331,97"/>
+<area shape="rect" id="node5" href="$class_model.html#a08ff726fffd82f00f20b8a1db05b2b6c" title="Compute confusion matrix. " alt="" coords="195,121,319,148"/>
+<area shape="rect" id="node7" href="$class_dense_unary_pixel_potential.html#a2419e38ff1e5a34acedda2ee6d158e6c" title="Train potential. " alt="" coords="170,173,345,214"/>
+<area shape="rect" id="node4" href="$class_model.html#aaf66c28b12d26627632a97403623b2af" title="Analyse features. " alt="" coords="404,71,567,97"/>
+<area shape="rect" id="node6" href="$class_model.html#ab2d5668ad5bd324fb8c03db4e2e02fe0" title="Find optimal lambda for VariationalOptimization. " alt="" coords="395,121,576,148"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Model::FindOptimalLambda" name="Model::FindOptimalLambda">
+<area shape="rect" id="node2" href="$class_model.html#afb8bb857ef77f1bf9c490c5e4b60e6a1" title="Solve optimization. " alt="" coords="248,5,347,32"/>
+<area shape="rect" id="node4" href="$class_model.html#a08ff726fffd82f00f20b8a1db05b2b6c" title="Compute confusion matrix. " alt="" coords="235,56,359,83"/>
+<area shape="rect" id="node8" href="$class_performance.html#abb2d99c202bb0304c4ef4bedcd576422" title="set performance " alt="" coords="236,107,359,133"/>
+<area shape="rect" id="node3" href="$class_optimization.html#afb6a477d94a4402f5994c65de3a5ab85" title="optimize solution " alt="" coords="412,5,548,32"/>
+<area shape="rect" id="node5" href="$class_dataset.html#ab3b3da11fbcc4100c8890d9ac6a70b24" title="Convert from RGB to Label. " alt="" coords="409,56,551,83"/>
+<area shape="rect" id="node6" href="$class_image.html#a613bf28dfeefe437389aaf2ecfc6db13" title="get RGB image " alt="" coords="423,107,537,133"/>
+<area shape="rect" id="node7" href="$class_image_proc.html#a2d5198dbf683a6e1877f25f7b09ecb89" title="convert image color space " alt="" coords="601,107,767,133"/>
+</map>

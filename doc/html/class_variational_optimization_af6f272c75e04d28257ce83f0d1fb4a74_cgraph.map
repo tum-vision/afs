@@ -1,0 +1,7 @@
+<map id="VariationalOptimization::Solve" name="VariationalOptimization::Solve">
+<area shape="rect" id="node2" href="$class_potential.html#a4c9d44cae0d85ae7e2f2c1aaacbd860d" title="Load Potential. " alt="" coords="211,5,367,32"/>
+<area shape="rect" id="node3" href="$group___c_u_d_a___c_o_d_e.html#gaa57fa722a5aa86d96cb894832ef5d618" title="call function to run segmentation on gpu " alt="" coords="226,56,353,83"/>
+<area shape="rect" id="node4" href="$group___c_u_d_a___c_o_d_e.html#ga1fb4ca7aebe011464a46f787c79ad9e5" title="call function to binarize the solution on CUDA " alt="" coords="232,107,347,133"/>
+<area shape="rect" id="node5" href="$class_dataset.html#ada60cbc31a23fc14c7a546ac47c43556" title="Convert from label to RGB. " alt="" coords="218,157,361,184"/>
+<area shape="rect" id="node6" href="$class_timer.html#a439eced3ba76f02f685358373cd7d124" title="print out message " alt="" coords="245,208,333,235"/>
+</map>

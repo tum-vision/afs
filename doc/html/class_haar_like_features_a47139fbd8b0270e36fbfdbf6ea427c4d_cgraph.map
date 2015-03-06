@@ -1,0 +1,13 @@
+<map id="HaarLikeFeatures::extractFeatures" name="HaarLikeFeatures::extractFeatures">
+<area shape="rect" id="node2" href="$class_image.html#aa4e1f064e5e1f3f04ad605408f1ec3af" title="get image height " alt="" coords="275,5,397,32"/>
+<area shape="rect" id="node3" href="$class_image.html#af2720a072812763395512fc3c8c21362" title="get image width " alt="" coords="277,56,395,83"/>
+<area shape="rect" id="node4" href="$class_feature.html#a0e800372722a0adbededfec77200f5cf" title="Set rectangle size. " alt="" coords="263,107,409,133"/>
+<area shape="rect" id="node5" href="$class_image_proc.html#a66e8b6ca8cffa2c9eae860b0f58cc92b" title="compute integral image " alt="" coords="241,157,431,184"/>
+<area shape="rect" id="node6" href="$class_image_proc.html#a0bbc17cb79b26ca69858fec007ffa814" title="zero pad to the image " alt="" coords="247,208,425,235"/>
+<area shape="rect" id="node7" href="$class_haar_like_features.html#af803bfa7e695cfc37dc7686c7ca6ccac" title="Horizontal Edge Feature. " alt="" coords="227,259,445,285"/>
+<area shape="rect" id="node8" href="$class_haar_like_features.html#a7310fb2271c42c51a544204e8390e79d" title="Vertical Edge Feature. " alt="" coords="233,309,439,336"/>
+<area shape="rect" id="node9" href="$class_haar_like_features.html#a2bec9176022eb04250ceb64eeea1afbe" title="Horizontal Line Feature. " alt="" coords="229,360,443,387"/>
+<area shape="rect" id="node10" href="$class_haar_like_features.html#aab400ca638cb7e46f844b214a23dcc06" title="Vertical Edge Feature. " alt="" coords="237,411,435,437"/>
+<area shape="rect" id="node11" href="$class_haar_like_features.html#aabf0b214e88a1725e1f7cf98ac0b2fa4" title="Center Surround Feature. " alt="" coords="251,462,421,503"/>
+<area shape="rect" id="node12" href="$class_haar_like_features.html#aeed45cf2b13f8aa40f42cff16c6ada38" title="Four Square Feature. " alt="" coords="238,528,434,555"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Model::Confusion" name="Model::Confusion">
+<area shape="rect" id="node2" href="$class_dataset.html#ab3b3da11fbcc4100c8890d9ac6a70b24" title="Convert from RGB to Label. " alt="" coords="179,5,322,32"/>
+<area shape="rect" id="node3" href="$class_image.html#a613bf28dfeefe437389aaf2ecfc6db13" title="get RGB image " alt="" coords="194,56,307,83"/>
+<area shape="rect" id="node4" href="$class_image_proc.html#a2d5198dbf683a6e1877f25f7b09ecb89" title="convert image color space " alt="" coords="371,56,538,83"/>
+</map>

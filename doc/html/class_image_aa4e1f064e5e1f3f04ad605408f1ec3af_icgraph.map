@@ -1,0 +1,8 @@
+<map id="Image::getHeight" name="Image::getHeight">
+<area shape="rect" id="node2" href="$class_haar_like_features.html#a47139fbd8b0270e36fbfdbf6ea427c4d" title="Extract features. " alt="" coords="196,5,369,46"/>
+<area shape="rect" id="node3" href="$class_color_features.html#a345f8c5e4a0c882228137749f74760e0" title="Extract features. " alt="" coords="181,71,384,97"/>
+<area shape="rect" id="node4" href="$class_location_features.html#ab2aee2aa4cefa33f5ff2d8d0a4d950e7" title="Extract features. " alt="" coords="197,122,368,163"/>
+<area shape="rect" id="node5" href="$class_depth_features.html#aedc034ff54f155dc2917c2d70c40cbba" title="Extract features. " alt="" coords="179,188,386,215"/>
+<area shape="rect" id="node6" href="$class_texton_features.html#a0f1ce5b7558fcb95fa1c4881cff48987" title="Extract features. " alt="" coords="177,239,389,265"/>
+<area shape="rect" id="node7" href="$class_dense_unary_pixel_potential.html#aa4bf7efaa5419a289c124fa3ce3cc4b2" title="Evaluate potentials. " alt="" coords="195,290,370,331"/>
+</map>

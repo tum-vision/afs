@@ -1,0 +1,11 @@
+<map id="DenseUnaryPixelPotential::Train" name="DenseUnaryPixelPotential::Train">
+<area shape="rect" id="node2" href="$class_feature.html#a96a93ee66709047731b7bf3de4721fc8" title="Get size of feature set. " alt="" coords="229,5,389,32"/>
+<area shape="rect" id="node3" href="$class_dataset.html#ab3b3da11fbcc4100c8890d9ac6a70b24" title="Convert from RGB to Label. " alt="" coords="238,56,381,83"/>
+<area shape="rect" id="node4" href="$class_image.html#a613bf28dfeefe437389aaf2ecfc6db13" title="get RGB image " alt="" coords="253,107,366,133"/>
+<area shape="rect" id="node6" href="$class_feature.html#af4509e5bedd1ee03b487e4fe6b1c5999" title="Load feature. " alt="" coords="238,157,381,184"/>
+<area shape="rect" id="node7" href="$class_feature.html#afe9ebefdfd38dd4388d4ca3a2d4f396f" title="Get sub sample size. " alt="" coords="230,208,389,235"/>
+<area shape="rect" id="node8" href="$class_feature.html#a05c2e34bfe1d40c2b7dcf6f390bf3469" title="Get size of full feature set. " alt="" coords="241,259,378,285"/>
+<area shape="rect" id="node9" href="$class_learning.html#a03e60274d758567fc51b19a8872a5380" title="Train Classifier. " alt="" coords="255,309,363,336"/>
+<area shape="rect" id="node10" href="$class_learning.html#abff913614eb51b500862ae46abf53106" title="Return estimated training time. " alt="" coords="232,360,387,387"/>
+<area shape="rect" id="node5" href="$class_image_proc.html#a2d5198dbf683a6e1877f25f7b09ecb89" title="convert image color space " alt="" coords="438,107,605,133"/>
+</map>

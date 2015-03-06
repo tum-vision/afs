@@ -1,0 +1,13 @@
+<map id="Corel" name="Corel">
+<area shape="rect" id="node2" href="$class_dataset.html" title="The Dataset class. " alt="" coords="590,168,658,195"/>
+<area shape="rect" id="node3" href="$class_feature.html" title="The Feature class. " alt="" coords="147,139,213,165"/>
+<area shape="rect" id="node5" href="$class_depth_features.html" title="The DepthFeatures class. " alt="" coords="323,40,431,67"/>
+<area shape="rect" id="node8" href="$class_haar_like_features.html" title="The HaarLikeFeatures class. " alt="" coords="315,91,440,117"/>
+<area shape="rect" id="node10" href="$class_texton_features.html" title="The TextonFeatures class. " alt="" coords="321,141,434,168"/>
+<area shape="rect" id="node11" href="$class_color_features.html" title="The ColorFeatures class. " alt="" coords="325,192,429,219"/>
+<area shape="rect" id="node12" href="$class_location_features.html" title="The LocationFeatures class. " alt="" coords="316,243,439,269"/>
+<area shape="rect" id="node4" href="$class_timer.html" title="The Timer class. " alt="" coords="6,239,61,265"/>
+<area shape="rect" id="node6" href="$class_potential.html" title="The Potential class. " alt="" coords="341,293,414,320"/>
+<area shape="rect" id="node7" href="$class_learning.html" title="Virtual Class for Learning Algorithms. " alt="" coords="145,300,215,327"/>
+<area shape="rect" id="node9" href="$class_optimization.html" title="The Optimization class. " alt="" coords="330,344,425,371"/>
+</map>

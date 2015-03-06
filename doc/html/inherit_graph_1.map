@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_dataset.html" title="The Dataset class. " alt="" coords="6,208,74,235"/>
+<area shape="rect" id="node2" href="$class_corel.html" title="The Corel class. " alt="" coords="160,5,213,32"/>
+<area shape="rect" id="node3" href="$classe_trims.html" title="The eTrims class. " alt="" coords="155,56,218,83"/>
+<area shape="rect" id="node4" href="$class_m_s_r_c.html" title="The MSRC class. " alt="" coords="155,107,218,133"/>
+<area shape="rect" id="node5" href="$class_n_y_uv1.html" title="The NYUv1 class. " alt="" coords="154,157,219,184"/>
+<area shape="rect" id="node6" href="$class_n_y_uv2.html" title="The NYUv2 class. " alt="" coords="154,208,219,235"/>
+<area shape="rect" id="node7" href="$class_pedestrian_parsing.html" title="The PedestrianParsing class. " alt="" coords="123,259,251,285"/>
+<area shape="rect" id="node8" href="$class_sowerby.html" title="The Sowerby class. " alt="" coords="150,309,223,336"/>
+<area shape="rect" id="node9" href="$class_test.html" title="The Test class. " alt="" coords="163,360,211,387"/>
+<area shape="rect" id="node10" href="$class_v_o_c2012.html" title="The VOC2012 class. " alt="" coords="147,411,226,437"/>
+</map>

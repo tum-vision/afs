@@ -1,0 +1,6 @@
+<map id="Feature::getSubSample" name="Feature::getSubSample">
+<area shape="rect" id="node2" href="$class_model.html#a7a533ed5022f53773b108b7fb9b80c5f" title="Rank features with mrmr. " alt="" coords="228,5,375,32"/>
+<area shape="rect" id="node3" href="$class_model.html#aaf66c28b12d26627632a97403623b2af" title="Analyse features. " alt="" coords="437,31,600,57"/>
+<area shape="rect" id="node4" href="$class_dense_unary_pixel_potential.html#a2419e38ff1e5a34acedda2ee6d158e6c" title="Train potential. " alt="" coords="214,107,389,149"/>
+<area shape="rect" id="node5" href="$class_dense_unary_pixel_potential.html#aa4bf7efaa5419a289c124fa3ce3cc4b2" title="Evaluate potentials. " alt="" coords="214,173,389,214"/>
+</map>

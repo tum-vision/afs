@@ -1,0 +1,5 @@
+<map id="ImageProc::getPaddedImg" name="ImageProc::getPaddedImg">
+<area shape="rect" id="node2" href="$class_haar_like_features.html#a47139fbd8b0270e36fbfdbf6ea427c4d" title="Extract features. " alt="" coords="249,5,423,46"/>
+<area shape="rect" id="node3" href="$class_color_features.html#a345f8c5e4a0c882228137749f74760e0" title="Extract features. " alt="" coords="235,71,437,97"/>
+<area shape="rect" id="node4" href="$class_depth_features.html#aedc034ff54f155dc2917c2d70c40cbba" title="Extract features. " alt="" coords="233,121,439,148"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Model::EvaluateFeatures" name="Model::EvaluateFeatures">
+<area shape="rect" id="node2" href="$class_feature.html#a96a93ee66709047731b7bf3de4721fc8" title="Get size of feature set. " alt="" coords="224,5,384,32"/>
+<area shape="rect" id="node3" href="$class_image.html#ac7ed646fcbfe7286a301bac1dda6ec33" title="is image empty ? " alt="" coords="247,56,361,83"/>
+<area shape="rect" id="node4" href="$class_timer.html#a3a8b5272198d029779dc9302a54305a8" title="start clock " alt="" coords="259,107,349,133"/>
+<area shape="rect" id="node5" href="$class_feature.html#aea3a2734172ddbe77da96419cbd67599" title="Extract features. " alt="" coords="221,157,387,184"/>
+<area shape="rect" id="node6" href="$class_feature.html#add06fb0671ee821c4599518e9e923567" title="Save features. " alt="" coords="231,208,377,235"/>
+<area shape="rect" id="node7" href="$class_timer.html#ac4283aa1838970ce95875d8c456f7844" title="stop clock " alt="" coords="260,259,348,285"/>
+<area shape="rect" id="node8" href="$class_timer.html#a439eced3ba76f02f685358373cd7d124" title="print out message " alt="" coords="260,309,348,336"/>
+</map>

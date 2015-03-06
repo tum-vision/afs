@@ -1,0 +1,5 @@
+<map id="Dataset::getDatasetImages" name="Dataset::getDatasetImages">
+<area shape="rect" id="node2" href="$class_dataset.html#a3e235c506615714af5ce08f6d2d93a12" title="Read pre&#45;splitted train/validation/test images. " alt="" coords="237,5,432,32"/>
+<area shape="rect" id="node3" href="$class_dataset.html#a334eb8f6caa90a87eb8eff57a6caa442" title="Read Dataset. " alt="" coords="255,56,414,83"/>
+<area shape="rect" id="node4" href="$class_dataset.html#ad4cb18b36a62aaf522bee03811cd3bd1" title="Write train/validation/test splits to files. " alt="" coords="248,107,421,133"/>
+</map>

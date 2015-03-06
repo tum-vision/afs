@@ -1,0 +1,13 @@
+<map id="Model::RankFeatures" name="Model::RankFeatures">
+<area shape="rect" id="node2" href="$class_feature.html#a96a93ee66709047731b7bf3de4721fc8" title="Get size of feature set. " alt="" coords="212,5,372,32"/>
+<area shape="rect" id="node3" href="$class_dataset.html#ab3b3da11fbcc4100c8890d9ac6a70b24" title="Convert from RGB to Label. " alt="" coords="221,56,363,83"/>
+<area shape="rect" id="node4" href="$class_image.html#a613bf28dfeefe437389aaf2ecfc6db13" title="get RGB image " alt="" coords="235,107,349,133"/>
+<area shape="rect" id="node6" href="$class_feature.html#af4509e5bedd1ee03b487e4fe6b1c5999" title="Load feature. " alt="" coords="221,157,363,184"/>
+<area shape="rect" id="node7" href="$class_feature.html#afe9ebefdfd38dd4388d4ca3a2d4f396f" title="Get sub sample size. " alt="" coords="213,208,371,235"/>
+<area shape="rect" id="node8" href="$class_timer.html#a3a8b5272198d029779dc9302a54305a8" title="start clock " alt="" coords="247,259,337,285"/>
+<area shape="rect" id="node9" href="$class_timer.html#ac4283aa1838970ce95875d8c456f7844" title="stop clock " alt="" coords="248,309,336,336"/>
+<area shape="rect" id="node10" href="$class_dataset.html#aef3a5e65d642417cc8c6973d8b337588" title="Get size of full feature set. " alt="" coords="201,360,383,387"/>
+<area shape="rect" id="node11" href="$class_feature.html#a05c2e34bfe1d40c2b7dcf6f390bf3469" title="Get size of full feature set. " alt="" coords="447,385,585,412"/>
+<area shape="rect" id="node12" href="$class_feature.html#af13dc7c75b5fa0e7825b57042dfc2860" title="Set size of feature set. " alt="" coords="212,461,372,488"/>
+<area shape="rect" id="node5" href="$class_image_proc.html#a2d5198dbf683a6e1877f25f7b09ecb89" title="convert image color space " alt="" coords="433,107,599,133"/>
+</map>

@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['randomforest',['RandomForest',['../class_random_forest.html',1,'RandomForest'],['../class_random_forest.html#acee70eef4a188c30fcbfb11dced4b1dd',1,'RandomForest::RandomForest()']]],
+  ['rankfeatures',['RankFeatures',['../class_model.html#a7a533ed5022f53773b108b7fb9b80c5f',1,'Model']]],
+  ['readimgsindir',['readImgsInDir',['../class_dataset.html#a334eb8f6caa90a87eb8eff57a6caa442',1,'Dataset']]],
+  ['readsplitstovectors',['readSplitsToVectors',['../class_dataset.html#a3e235c506615714af5ce08f6d2d93a12',1,'Dataset']]],
+  ['removeunlabeledimages',['removeUnlabeledImages',['../class_dataset.html#ac3df43145ad35572641942933721ffbe',1,'Dataset']]],
+  ['resultdir',['resultDir',['../class_dataset.html#a78c297a0e37b42a6808458a74af8c9bd',1,'Dataset']]],
+  ['resultfolder',['resultFolder',['../class_dataset.html#ae1ac313bf6d28774ec594a76a0d829e1',1,'Dataset']]],
+  ['rfforest_5faccuracy',['RFforest_accuracy',['../class_dataset.html#a08173633603bb339738aaaaf3f3c34f0',1,'Dataset']]],
+  ['rfmax_5fnum_5fof_5ftrees_5fin_5fthe_5fforest',['RFmax_num_of_trees_in_the_forest',['../class_dataset.html#ab90f3607eaf36040f982d6bb98058c1f',1,'Dataset']]],
+  ['rfparams',['RFParams',['../class_dataset.html#a0e6191824d9b18fc6e63c6486e0f1ace',1,'Dataset']]],
+  ['rfterm_5fcrit',['RFterm_crit',['../class_dataset.html#acb6a6e50e25609ad497708644f37a209',1,'Dataset']]],
+  ['rgb2label',['RGB2Label',['../class_dataset.html#ab3b3da11fbcc4100c8890d9ac6a70b24',1,'Dataset::RGB2Label()'],['../classe_trims.html#a46af479d75d3a8ddf9afe7001d35431a',1,'eTrims::RGB2Label()'],['../class_m_s_r_c.html#a480922d6cb040b937b049d4616328ee7',1,'MSRC::RGB2Label()'],['../class_corel.html#ab2525af24eb9abbeb542e488cfd13b71',1,'Corel::RGB2Label()'],['../class_n_y_uv1.html#ae58fed5c89d96af8ba56a1fd8421fdf8',1,'NYUv1::RGB2Label()'],['../class_n_y_uv2.html#a19fef880ab1058a4221149a0f2a944f7',1,'NYUv2::RGB2Label()'],['../class_v_o_c2012.html#afdd9dbabc0122e639144df131d71fb8b',1,'VOC2012::RGB2Label()'],['../class_pedestrian_parsing.html#a725828d5a50e55069a4dc2795a732be4',1,'PedestrianParsing::RGB2Label()']]],
+  ['rheight',['rHeight',['../class_feature.html#af4aeb7068d2c14ce61fab084ced2d4f9',1,'Feature']]],
+  ['rndlocs',['rndLocs',['../class_color_features.html#a41beb4b17c39cc626d58984c61c48555',1,'ColorFeatures']]],
+  ['rndpatches',['rndPatches',['../class_color_features.html#a0340a1d175ef613cfbbb995727d7664d',1,'ColorFeatures']]],
+  ['rndrelatives',['rndRelatives',['../class_color_features.html#ac4859769de44854e88ec1f44bd336043',1,'ColorFeatures']]],
+  ['rwidth',['rWidth',['../class_feature.html#a3092080b3d4390528c04c22033da06e9',1,'Feature']]]
+];

@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_feature.html" title="The Feature class. " alt="" coords="5,107,72,133"/>
+<area shape="rect" id="node2" href="$class_color_features.html" title="The ColorFeatures class. " alt="" coords="131,5,235,32"/>
+<area shape="rect" id="node3" href="$class_depth_features.html" title="The DepthFeatures class. " alt="" coords="129,56,237,83"/>
+<area shape="rect" id="node4" href="$class_haar_like_features.html" title="The HaarLikeFeatures class. " alt="" coords="120,107,245,133"/>
+<area shape="rect" id="node5" href="$class_location_features.html" title="The LocationFeatures class. " alt="" coords="121,157,244,184"/>
+<area shape="rect" id="node6" href="$class_texton_features.html" title="The TextonFeatures class. " alt="" coords="126,208,239,235"/>
+</map>

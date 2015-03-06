@@ -1,0 +1,6 @@
+<map id="DepthFeatures::extractFeatures" name="DepthFeatures::extractFeatures">
+<area shape="rect" id="node2" href="$class_image.html#aa4e1f064e5e1f3f04ad605408f1ec3af" title="get image height " alt="" coords="289,5,412,32"/>
+<area shape="rect" id="node3" href="$class_image.html#af2720a072812763395512fc3c8c21362" title="get image width " alt="" coords="291,56,410,83"/>
+<area shape="rect" id="node4" href="$class_feature.html#a0e800372722a0adbededfec77200f5cf" title="Set rectangle size. " alt="" coords="277,107,424,133"/>
+<area shape="rect" id="node5" href="$class_image_proc.html#a0bbc17cb79b26ca69858fec007ffa814" title="zero pad to the image " alt="" coords="262,157,439,184"/>
+</map>
