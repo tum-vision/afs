@@ -1,6 +1,5 @@
 ![Image](logo/logo.png)
 
-# AFS
 Automatic Feature Selection is a code framework for the feature selection method introduced in 
 
 >Caner Hazirbas, Julia Diebold, Daniel Cremers,
