@@ -198,6 +198,7 @@ void call_segmentation(float *dataterm, float *g, float *u, int width, int heigh
     cutilSafeCall(cudaFree(gpu_g));
     cutilSafeCall(cudaFree(gpu_u));
     cutilSafeCall(cudaFree(gpu_u_bar));
+    cutilSafeCall(cudaFree(gpu_u_prev));
     cutilSafeCall(cudaFree(gpu_xi));
     cutilSafeCall(cudaFree(gpu_psi));    
     cutilSafeCall(cudaFree(gpu_sum_u));
