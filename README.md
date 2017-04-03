@@ -50,7 +50,7 @@ Along with these libraries, you need to install CUDA drivers on your machine:
 
 Once libraries are installed, you can download the source from github:
 
-            git clone https://github.com/tum-vision/AFS.git
+            git clone https://github.com/tum-vision/afs.git
      
 This framework requires [mrmr](http://penglab.janelia.org/proj/mRMR/) method to be compiled. Please download the [source files](http://penglab.janelia.org/proj/mRMR/mrmr_c_src.zip) inside the folder *misc/mrmr/* and compile the code with **make** command.
 
